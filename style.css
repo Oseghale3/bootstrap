@@ -1,0 +1,9 @@
+#card{
+    box-shadow: 2px 2px orangered;
+}
+
+@media(min-width: 768px) {
+    .wrapper-1 {
+        width: 40%;
+    }
+}
